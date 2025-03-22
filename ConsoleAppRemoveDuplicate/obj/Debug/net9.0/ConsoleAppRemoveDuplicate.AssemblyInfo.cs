@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppRemoveDuplicate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+393694fb3e7f626285e020be1c55489ac25cbc65")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppRemoveDuplicate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppRemoveDuplicate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
