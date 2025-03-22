@@ -8,3 +8,8 @@ The ALProjects is the meaning of Alex Projects where we are going to store progr
 
 The current project is going to be stored in SRoomsCode Git
 [SroomsCode](https://github.com/SRoomsCode/AlProjects)
+
+## list of programs
+
+- Remove Duplicates from List
+- ...
