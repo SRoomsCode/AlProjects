@@ -1,0 +1,14 @@
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\bin\Debug\net9.0\ConsoleAppRemoveDuplicate.exe
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\bin\Debug\net9.0\ConsoleAppRemoveDuplicate.deps.json
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\bin\Debug\net9.0\ConsoleAppRemoveDuplicate.runtimeconfig.json
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\bin\Debug\net9.0\ConsoleAppRemoveDuplicate.dll
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\bin\Debug\net9.0\ConsoleAppRemoveDuplicate.pdb
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\obj\Debug\net9.0\ConsoleAppRemoveDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\obj\Debug\net9.0\ConsoleAppRemoveDuplicate.AssemblyInfoInputs.cache
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\obj\Debug\net9.0\ConsoleAppRemoveDuplicate.AssemblyInfo.cs
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\obj\Debug\net9.0\ConsoleAppRemoveDuplicate.csproj.CoreCompileInputs.cache
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\obj\Debug\net9.0\ConsoleAppRemoveDuplicate.dll
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\obj\Debug\net9.0\refint\ConsoleAppRemoveDuplicate.dll
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\obj\Debug\net9.0\ConsoleAppRemoveDuplicate.pdb
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\obj\Debug\net9.0\ConsoleAppRemoveDuplicate.genruntimeconfig.cache
+c:\Users\sroom.DESKTOP-1BB40C8\source\repos\AlProjects\ConsoleAppRemoveDuplicate\obj\Debug\net9.0\ref\ConsoleAppRemoveDuplicate.dll
