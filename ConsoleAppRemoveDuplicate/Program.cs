@@ -8,3 +8,7 @@ Console.WriteLine("Hello, World!");
 
 ListProcessor listProcessor = new ListProcessor();
 listProcessor.ProcessList();
+
+Console.WriteLine("Program ended.");
+Console.WriteLine("Press any key to exit...");
+Console.ReadKey();
