@@ -12,3 +12,5 @@ listProcessor.ProcessList();
 Console.WriteLine("Program ended.");
 Console.WriteLine("Press any key to exit...");
 Console.ReadKey();
+// End of the program
+// This program demonstrates how to remove duplicates from a list of integers
